@@ -14,5 +14,5 @@ Here's some information about me:
 * MS in CS @ Brown (Graduated 2024)
 * BS in Applied Math and CS @ Brown (Graduated 2023)
 
-### Next
+### ➡️ Next
 Check out my repos for more interesting stuff
