@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Tony, an aspiring data scientist from the US
+
 Here's some information about me
 
 ### 👔 Work Experience
