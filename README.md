@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**tonyzhu163/tonyzhu163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tony, an aspiring data scientist from the US
+Here's some information about me
 
-Here are some ideas to get you started:
+### 👔 Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BIE Intern @ AWS (Summer 2022)
+Data Science Intern @ Tencent (Summer 2021)
+
+### 📝 Education
+
+MS in CS @ Brown (Graduated 2024)
+BS in Applied Math and CS @ Brown (Graduated 2023)
+
+Check out my repos for more interesting stuff
