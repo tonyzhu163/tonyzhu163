@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tony, an aspiring data scientist from the US
+I'm Tony, an aspiring mle from the US
 
 Here's some information about me:
 
@@ -11,7 +11,7 @@ Here's some information about me:
 
 ### 📝 Education
 
-* MS in CS @ Brown (Graduated 2024)
+* MS in CS @ Brown (Graduated 2024, Prof. James Tompkin)
 * BS in Applied Math and CS @ Brown (Graduated 2023)
 
 ### ➡️ Next
