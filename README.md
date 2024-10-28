@@ -16,3 +16,4 @@ Here's some information about me:
 
 ### ➡️ Next
 Check out my repos for more interesting stuff
+Reach me at me@tonyzoo.com
