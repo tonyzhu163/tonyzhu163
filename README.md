@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tony, an aspiring software engineer/data scientist from the US
+I'm Tony, an aspiring software engineer from the US
 
 Here's some information about me:
 
